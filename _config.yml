@@ -1,9 +1,9 @@
 remote_theme: olegbukatchuk/roadmap
 
-title: Roadmap
+title: Курс
 longtitle: Roadmap project
-author: Jason Grimes
-email: jason@grimesit.com
+author: Oleg Bukatchuk
+email: oleg@bukatchuk.com
 description: >
   A Jekyll theme based on GitBook with support for chapters and parts.
 
@@ -45,7 +45,7 @@ sidebar_nav_top:
 # Links shown below the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_bottom:
-- label: Draft outline
+- label: Черновик
   url: /outline.html
 - label: Проект на GitHub
   url: https://github.com/olegbukatchuk/roadmap/fork
@@ -55,10 +55,10 @@ sidebar_nav_bottom:
 bottom_nav:
 - label: Главная
   url: /index.html
-- label: Book
+- label: Курс
   url: /book.html
 - label: GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook
+  url: https://github.com/olegbukatchuk/roadmap
 - label: Privacy
   url: /privacy.html
 
